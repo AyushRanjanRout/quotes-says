@@ -30,7 +30,17 @@ Follow these steps to get a copy of QuotesSays up and running on your local mach
 
 ## Dependencies
 
-- [flutter_swiper](https://pub.dev/packages/flutter_swiper): A Flutter plugin for simple and custom swiper.
+- [flutter_card_swiper](https://pub.dev/packages/flutter_swiper): For UI.
+- [google_fonts](https://pub.dev/packages/google_fonts): For Beautiful Fonts.
+- [provider](https://pub.dev/packages/provider): To Manage State.
+- [http](https://pub.dev/packages/http): For API Request.
+- [iconly](https://pub.dev/packages/iconly): Icon set.
+- [share_plus](https://pub.dev/packages/share_plus): sharing content to social media.
+- [screenshot](https://pub.dev/packages/screenshot): To capture Quotes.
+- [path_provider](https://pub.dev/packages/path_provider): A Flutter plugin for determining commonly used locations on the filesystem.
+- [image_gallery_saver](https://pub.dev/packages/image_gallery_saver): To save images to the gallery.
+- [fluttertoast](https://pub.dev/packages/fluttertoast): A Flutter package for creating toast messages.
+- [shared_preferences](https://pub.dev/packages/shared_preferences): To Store Quotes Locally.
 
 ## How to Contribute
 
